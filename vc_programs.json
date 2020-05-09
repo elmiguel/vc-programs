@@ -1,0 +1,5612 @@
+{
+    "programs": [
+        {
+            "courseId": "ACG2001",
+            "title": "Financial Accounting I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ACG2011",
+            "title": "Financial Accounting II",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ACG2071",
+            "title": "Managerial Accounting",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ACG3024",
+            "title": "Accounting For Non-Financial Majors",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ACG3131",
+            "title": "Accounting Theory I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "ACG3173",
+            "title": "Accounting For Decision Makers",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ACG3341",
+            "title": "Cost Accounting",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ACG3401",
+            "title": "Accounting Information Systems",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "ACR0100",
+            "title": "HVAC/R 2",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ACR0431",
+            "title": "HVAC/R 9",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ACR0523",
+            "title": "HVAC/R I",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ACR0525",
+            "title": "HVAC/R 3",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ACR0548",
+            "title": "HVAC/R 4",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ACR0571",
+            "title": "HVAC/R 7",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ACR0578",
+            "title": "HVAC/R 8",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ACR0607",
+            "title": "HVAC/R 5",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ACR0701",
+            "title": "HVAC/R 6",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ADV2000",
+            "title": "Advertising & Sales Promotion",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AER0006",
+            "title": "Automotive Services Assistor I",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AER0007",
+            "title": "Automotive Services Assistor 2",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AER0110",
+            "title": "Engine Repair Technician",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AER0172",
+            "title": "Auto Heat And Air Conditioning Tech",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AER0299",
+            "title": "Auto Automatic Transmission/Transaxles",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AER0399",
+            "title": "Manual Drive Train/Axle Tech",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AER0499",
+            "title": "Automotive Suspension & Steering Technician",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AER0599",
+            "title": "Auto Brake Systems Technician",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AER0691",
+            "title": "Automotive Electric/Electronics System Tech",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AER0692",
+            "title": "Automotive Electric/Electronics System Tech II",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AER0891",
+            "title": "Auto Engine Performance Tech I",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AER0892",
+            "title": "Auto Engine Performance Tech II",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AER1070",
+            "title": "Automotive Service Management",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AER1937",
+            "title": "Special Topics In Automotive",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AER2398",
+            "title": "Manual Drive Trains And Axles",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AER2758",
+            "title": "Automotive Air Conditioning & Heat",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AMH2010",
+            "title": "American History:Discovery-Reconstruct",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AMH2020",
+            "title": "American History:Reconstruction-Present",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AML2010",
+            "title": "American Literature To 1865",
+            "typicalOnlinePeriodsOffered": "Fall, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AML2020",
+            "title": "American Literature After 1865",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ANT1000",
+            "title": "Introduction to General Anthropology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ANT2140",
+            "title": "Archaeology and Human Origins",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ANT2410",
+            "title": "Cultural Anthropology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "APA1111",
+            "title": "Introduction To Accounting",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ARC1301C",
+            "title": "Architectural Design I",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ARC1701",
+            "title": "Architectural History I",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ARC2201",
+            "title": "Architectural Theory",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ARH1000",
+            "title": "Art Appreciation",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "ART1300C",
+            "title": "Drawing I",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ASL1140",
+            "title": "American Sign Language I",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ASL1150",
+            "title": "American Sign Language II",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "AST1002",
+            "title": "General Astronomy",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "BCH4054",
+            "title": "Biochemistry II",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "BOT3015",
+            "title": "Plant Biology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "BSC1005",
+            "title": "Life Science",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "BSC1084",
+            "title": "Survey of The Human Body",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "BSC2010",
+            "title": "General Biology I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "BSC2011",
+            "title": "General Biology II",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "BSC2093",
+            "title": "Anatomy & Physiology I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "BSC2094",
+            "title": "Anatomy & Physiology II",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "BSC3465",
+            "title": "Biotechnology II",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "BSC3932",
+            "title": "Junior Seminar II",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "BSC4422",
+            "title": "Applications In Biotechnology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "BSC4910",
+            "title": "Senior Project I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "BUL2241",
+            "title": "Business Law I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "BUL3130",
+            "title": "Legal & Social Aspects of Business",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "BUL4310",
+            "title": "The Legal Environment of Business",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CAP3052",
+            "title": "Game Design I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CAP4056",
+            "title": "Game Design 2",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CCJ1600",
+            "title": "Deviant Behavior",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CCJ2020",
+            "title": "Introduction To Criminal Justice",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CCJ2022",
+            "title": "Contemporary Issues In Criminal Justice",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CCJ3612",
+            "title": "Criminal And Delinquent Behavior",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CCJ3641",
+            "title": "Organized Crime",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CCJ4054",
+            "title": "Criminal Justice Ethics And Liability",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CCJ4450",
+            "title": "Criminal Justice Administration And Management",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CCJ4651",
+            "title": "Drugs And Crime",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CCJ4666",
+            "title": "Victimology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CCJ4678",
+            "title": "Race Gender Ethnicity And Crime",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CCJ4700",
+            "title": "Methods of Research In Criminal Justice",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CET1178",
+            "title": "A+ Certification Training I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CET1179C",
+            "title": "A+ Certification Training II",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CET1588",
+            "title": "Network + Certification",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CET1854",
+            "title": "Introduction To Wireless Technology",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CET2891",
+            "title": "Wireless Network Security Certification",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CGS1060",
+            "title": "College Computing",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CGS1100",
+            "title": "Intro To Computer Applications-Business",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CGS1500",
+            "title": "Microsoft Word",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CGS1522",
+            "title": "Microsoft Powerpoint",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CGS1540",
+            "title": "Database Management",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CGS1700",
+            "title": "Introduction To Operating Systems",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CGS1821",
+            "title": "Web Site Development",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CGS1843",
+            "title": "Introduction To E-Commerce",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CGS1876",
+            "title": "Web Animation",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CGS4828",
+            "title": "Advanced Web Design",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CHD1220",
+            "title": "Introduction To Child Development",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CHD1332",
+            "title": "Creative Experiences For Children",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CHD2334",
+            "title": "Early Childhood Language Arts & Reading",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CHD2800",
+            "title": "Administering A Child Care Center",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CHM1020",
+            "title": "Introduction To Chemistry",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CHM1045",
+            "title": "General Chemistry I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CIS1000",
+            "title": "Introduction To Information Technology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CIS2381",
+            "title": "Network Forensics",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CJC2000",
+            "title": "Introduction To Corrections",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CJC2162",
+            "title": "Probation And Parole",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CJC3011",
+            "title": "Corrections And Penology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CJD1940",
+            "title": "Internship In Criminal Justice",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CJE1000",
+            "title": "Introduction To Law Enforcement",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CJE1002",
+            "title": "Police Procedures",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CJE1325",
+            "title": "Foundations of Law Enforcement Leadership",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CJE2600",
+            "title": "Criminal Investigation",
+            "typicalOnlinePeriodsOffered": "Spring, Summer",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CJE3065",
+            "title": "Police And Society",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CJJ2002",
+            "title": "The Juvenile And The Law",
+            "typicalOnlinePeriodsOffered": "Fall, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CJJ3015",
+            "title": "Juvenile Justice System",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CJL2062",
+            "title": "Constitutional Law",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CJL2100",
+            "title": "Criminal Law",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CJL2130",
+            "title": "Rules of Evidence",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CJL2403",
+            "title": "Criminal Procedure",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CJL2500",
+            "title": "Introduction To The Courts",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CJL3010",
+            "title": "Legal Aspects of Policing",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CJL3510",
+            "title": "The American Court System",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CJL4415",
+            "title": "Law And Social Control",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CLP2140",
+            "title": "Abnormal Psychology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CNT4406",
+            "title": "Network Security And Cryptography",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COP1332",
+            "title": "Visual Basic Programming",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COP1661",
+            "title": "Mobile Application Development",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COP1800",
+            "title": "Java Programming",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COP1830",
+            "title": "Web Programming",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "COP2000",
+            "title": "Introduction To Computer Programming I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COP2001",
+            "title": "Computer Programming II",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COP2030",
+            "title": "Introduction To Python",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COP2360",
+            "title": "C# Programming",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "COP2700",
+            "title": "Data Base Programming",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "COP2842",
+            "title": "Developing Web Sites Using PHP/MySql",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "COS0008",
+            "title": "Cosmetology III: Skillset Review",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COS0010",
+            "title": "Cosmetology I: Theory of Cosmetology",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COS0081",
+            "title": "Hairstyling",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COS0082",
+            "title": "Facials Manicuring And Pedicuring",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COS0084",
+            "title": "Anatomy & Physiology For Cosmetology",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COS0085",
+            "title": "Chemistry of Haircoloring Process",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COS0086",
+            "title": "Chemistry of Chemical Processes of Hair",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COS0087",
+            "title": "Job Prep Florida Law And State Board Review",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COS0088",
+            "title": "Cosmetology II: Applied Skills and Tactics",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COS0351C",
+            "title": "Haircutting Mustache And Beard Design",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COS0502",
+            "title": "Barbering I: Theory of Barbering",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COS0510C",
+            "title": "Barber Styling",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COS0521",
+            "title": "Barbering II: Applied Skills and Tactics",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COS0553",
+            "title": "Barbering III: Skillset Review",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "COS0926",
+            "title": "Practical/Theory Review",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CRW2001",
+            "title": "Creative Writing I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CRW2002",
+            "title": "Creative Writing II",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CRW2003",
+            "title": "Creative Writing III",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CRW2004",
+            "title": "Creative Writing IV",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CSP0240C",
+            "title": "Anatomy & Physiology For Barbers",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CTS1104",
+            "title": "Windows Professional",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CTS1155",
+            "title": "Introduction To Help Desk Concepts",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CTS1205",
+            "title": "Excel I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CTS1330",
+            "title": "Implementing And Supporting MS-Exchange",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CTS1334",
+            "title": "Windows Server",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CTS1347C",
+            "title": "Server 2008 Network Infrastructure Configuration",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CTS1650",
+            "title": "CCNA1: Networking Basics",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CTS2106",
+            "title": "Linux Fundamentals",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CTS2120",
+            "title": "Security Fundamentals",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CTS2342C",
+            "title": "Server 2008 Enterprise Administration",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CTS2343C",
+            "title": "Server 2008 Application Infrastructure Config",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CTS2423",
+            "title": ".NET Application Development",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "CTS2651",
+            "title": "CCNA2 : Router Technology",
+            "typicalOnlinePeriodsOffered": "Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CTS2652",
+            "title": "CCNA3:Advanced Routers",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CTS2653",
+            "title": "CCNA4 : WAN Technologies",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "CTS4425",
+            "title": "Web Application Development",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DAN2100",
+            "title": "Dance Appreciation",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "DEA1028",
+            "title": "Preclinical Orientation",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DEA1028L",
+            "title": "Preclinical Orientation Lab",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DEA1136",
+            "title": "Related Dental Theory",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "DEA1805",
+            "title": "Clinical Practice I",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DEA1855",
+            "title": "Clinical Practice II",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DEA1931",
+            "title": "Orthodontic Expanded Functions",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DEH1003",
+            "title": "Pre-Clinical Dental Hygiene",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DEH1003L",
+            "title": "Preclinical Dental Hygiene Lab",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DEH1130",
+            "title": "Oral Embryology And Histology",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DEH1300",
+            "title": "Pharmacology",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DEH1802",
+            "title": "Clinical Dental Hygiene II",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DEH2602",
+            "title": "Periodontology",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DEH2804",
+            "title": "Clinical Dental Hygiene III",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DEHP941",
+            "title": "Dental Hygiene Clinical Similation",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DEP1002",
+            "title": "Child And Adolescent Psychology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DEP2004",
+            "title": "Human Development",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DES1020",
+            "title": "Head Neck And Dental Anatomy",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DES1100",
+            "title": "Elements of Dental Materials",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DES1200",
+            "title": "Dental Radiography",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DES1600",
+            "title": "Health Office Emergencies",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DES1800",
+            "title": "Introduction To Clinical Procedures",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DES1832",
+            "title": "Expanded Functions I",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DES1833",
+            "title": "Expanded Functions II",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DES1840",
+            "title": "Preventive Dentistry",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DES2502",
+            "title": "Dental Office Management",
+            "typicalOnlinePeriodsOffered": "Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "DES2530C",
+            "title": "Expanded Functions",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DIG1115",
+            "title": "Digital Imaging Fundamentals With Photoshop",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DIG2302",
+            "title": "3d Digital Animation I",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DIM2250",
+            "title": "Hybrid And Alternative Fuel Vehicles",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DSC1002",
+            "title": "Terrorism And U.S. Security",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "DSC1003",
+            "title": "Introduction to Homeland Security",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "DSC1004",
+            "title": "Introduction to NRF and NIMS",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "DSC1033",
+            "title": "Weapons of Mass Destruction",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "DSC1035",
+            "title": "Recognition and Investigation of Terrorism",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "DSC1222",
+            "title": "Psychological Management of Disasters",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "DSC1552",
+            "title": "Critical Infrastructure Protection",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "DSC1641",
+            "title": "Exercise Design and Evaluation",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "DSC1930",
+            "title": "Current Topics In Public Safety",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "DSC2212",
+            "title": "Disaster Response, Mitigation and Recovery",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "DSC2949",
+            "title": "Internship In Emergency Management",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DSC3079",
+            "title": "Foundations of Public Safety",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DSC3215",
+            "title": "Emergency Planning",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DSC4013",
+            "title": "Capstone Project In Public Safety",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DSC4218",
+            "title": "Emergency Planning II",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DSC4226",
+            "title": "National Incident Management",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "DSC4755",
+            "title": "National Security",
+            "typicalOnlinePeriodsOffered": "Spring, Summer",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "DSC4931",
+            "title": "Contemporary Issues In Public Safety",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ECO2000",
+            "title": "Introduction To Economics",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ECO2013",
+            "title": "Principles of Economics Macro",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ECO2023",
+            "title": "Principles of Economics Micro",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ECO3411",
+            "title": "Statistical Methods for Economics & Business",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDE4220",
+            "title": "Integrated Health And Recreation",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDE4223",
+            "title": "Integrated Music Art And Movement",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDE4936",
+            "title": "Seminar In Elementary Education",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDE4940",
+            "title": "Internship In Elementary Education",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "EDF2005",
+            "title": "Introduction To The Teaching Profession",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDF2085",
+            "title": "Intro To Diversity/Exceptionalities For Educators",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDF2930",
+            "title": "Special Topics In Education",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDF3214",
+            "title": "Human Development And Learning",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDF4430",
+            "title": "Measurement Evaluation And Assessment",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDF4782",
+            "title": "Ethics And Law",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDG1011",
+            "title": "Educational Professional Skills Development",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDG1932",
+            "title": "Enhancing Teacher Effectiveness",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "EDG2301",
+            "title": "General Teaching Skills",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDG3343",
+            "title": "Instructional Strategies",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDG3620",
+            "title": "Curriculum And Instruction",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDG3949",
+            "title": "EPI Practicum",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDG4376",
+            "title": "Integrating Language Arts And Social Sciences",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDG4377C",
+            "title": "Integrating Mathematics And Science",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDG4410",
+            "title": "Classroom Management And Communication",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDM3001",
+            "title": "Introduction To Middle School",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EDP2002",
+            "title": "Introduction To Educational Psychology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEC1202",
+            "title": "Principles of Early Childhood Curriculum",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEC1520",
+            "title": "Early Childhood Leadership And Organizational Mgmt",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEC1523",
+            "title": "Programming For Early Childcare Administrators",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEC1601",
+            "title": "Observing & Recording Behavior",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEC1730",
+            "title": "Basic Childhood Nutrition",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEC1946",
+            "title": "Practicum In CDA Assessment",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEC1947",
+            "title": "Practicum In Teaching Strategies",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEC2948",
+            "title": "Practicum In Early Childhood Curriculum",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEC2949",
+            "title": "Practicum Child Care Center Management",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EET1215C",
+            "title": "Introduction To Electronics",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEX1013",
+            "title": "Special Needs In Early Childhood Education",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEX2010",
+            "title": "Introduction To Special Education",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEX2030",
+            "title": "Teaching Exceptional Learners in Inclusive Setting",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "EEX3103",
+            "title": "Survey of Normal/Abnormal Language & Speech Developer",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEX4094",
+            "title": "Educating Students With Autism",
+            "typicalOnlinePeriodsOffered": "Fall, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEX4221",
+            "title": "Educational Assessment of Exceptional Students",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEX4232",
+            "title": "Identification/Assessment of Individuals W/Autism",
+            "typicalOnlinePeriodsOffered": "Spring, Summer",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEX4264",
+            "title": "Curriculum/Instruction-Students W/Disabilities K-5",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEX4265",
+            "title": "Curriculum/Instruction-Student W/Disabilities 6-12",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEX4601",
+            "title": "Effective Behavioral Interventions/Practices N Ese",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEX4603",
+            "title": "Positive Behavior Support",
+            "typicalOnlinePeriodsOffered": "Spring, Summer",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEX4760",
+            "title": "Assistive Technology For Students With Autism",
+            "typicalOnlinePeriodsOffered": "Fall, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EEX4940",
+            "title": "Student Teaching/ESE Internship And Seminar",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EGN1002",
+            "title": "Introduction To Engineering",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EGN1111",
+            "title": "Engineering Graphics",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EME1013",
+            "title": "Education Professional Skills Development 2",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "EME1014",
+            "title": "Education Professional Skills Development 3",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "EME1310",
+            "title": "Media In Instruction",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EME1318",
+            "title": "Advanced Media In Instruction",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "EME2040",
+            "title": "Intro To Technology For Educators",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EME3410",
+            "title": "Integrating Technology In The Classroom",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EMS1431",
+            "title": "EMT Clinical/Field Experience",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EMS2931",
+            "title": "Special Topics In Prehospital Medicine",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ENC1101",
+            "title": "English Composition I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ENC1102",
+            "title": "English Composition II",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ENC1107",
+            "title": "Advanced College Writing",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "ENC2210",
+            "title": "Technical Communications",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "ENL2012",
+            "title": "English Literature To 1798",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "ENL2022",
+            "title": "English Literature After 1798",
+            "typicalOnlinePeriodsOffered": "Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "ENL2330",
+            "title": "Intro To Shakespeare",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ETD1320",
+            "title": "Introduction To AutoCAD",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ETD2340",
+            "title": "AutoCAD Level 2",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ETD2395",
+            "title": "CAD-Architectural",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ETD2551",
+            "title": "CAD Civil",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ETI2425C",
+            "title": "Metallurgical Properties And Dynamics",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EUH2000",
+            "title": "Western Civilization:Origins To 1485",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EUH2001",
+            "title": "Western Civilization:1485 To 1815",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "EUH2002",
+            "title": "Western Civilization:1815 To The Present",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FES3003",
+            "title": "Emergency Services Public Policy",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FES3803",
+            "title": "Multi-Agency Incident Command",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FFP1000",
+            "title": "Principles of Emergency Services",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FFP1109",
+            "title": "Princ-Fire & Emergency Services Safety & Survival",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FFP1120",
+            "title": "Building Construction For Fire Service",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FFP1505",
+            "title": "Fire Prevention",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FFP1521",
+            "title": "Plans Examination and Blueprint Reading",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FFP1540",
+            "title": "Fire Protection Systems",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FFP1610",
+            "title": "Fire Behavior And Combustion",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FFP1812",
+            "title": "Engine & Truck Co. Fireground Operations",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FFP2510",
+            "title": "Building & Fire Codes I",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FFP2720",
+            "title": "Company Officer Leadership",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FFP2740",
+            "title": "Fire Service Course Delivery",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FFP2741",
+            "title": "Fire Service Course Design",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FFP2770",
+            "title": "Legal Issues For The Fire Service",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FFP2781",
+            "title": "Fire Department Organization & Admin",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FFP2801",
+            "title": "Incident Command System",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FFP2810",
+            "title": "Fire Fighting Tactics And Strategy I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FFP2811",
+            "title": "Firefighting Tactics And Strategy II",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FFP2820",
+            "title": "Principles of Emergency Management",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FFP2840",
+            "title": "Disaster Operations",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FIN1100",
+            "title": "Personal Finance",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "FIN2001",
+            "title": "Introduction To Finance",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FIN3400",
+            "title": "Financial Management",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FIN3403",
+            "title": "Corporate Finance",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FOS2201",
+            "title": "Food Service Sanitation Management",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FRE1120",
+            "title": "Elementary French I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FRE1121",
+            "title": "Elementary French II",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FSS1203C",
+            "title": "Quanitity Food Production I",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FSS1240C",
+            "title": "Classical Cuisine",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FSS1246C",
+            "title": "Baking And Pastries I",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FSS1930",
+            "title": "Creative Culinary Cooking",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FSS2204C",
+            "title": "Quantity Food Production II",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FSS2242C",
+            "title": "International And Regional Foods",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FSS2251",
+            "title": "Food & Beverage Management",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FSS2284C",
+            "title": "Catering And Banquet Management",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FSS2500",
+            "title": "Food And Beverage Cost Control",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "FSS2950C",
+            "title": "Culinary Competition",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "GCO1402",
+            "title": "Turfgrass Science",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "GCO1450",
+            "title": "Integrated Pest Management for Turf",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "GCO1611",
+            "title": "Golf Shop Managment",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "GCO1942",
+            "title": "Field Training - Turf Equipment Management",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "GCO1947",
+            "title": "Golf Course Design Concepts",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "GCO2601",
+            "title": "Materials Calculations",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "GCO2632",
+            "title": "Golf Course Organization/Administration",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "GEA2000",
+            "title": "World Regional Geography",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "GEB1011",
+            "title": "Introduction To Business",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "GEB1350",
+            "title": "Introduction To International Business",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "GEB2214",
+            "title": "Business Communications",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "GEB2941",
+            "title": "Applied Internship",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "GEB3035",
+            "title": "Effective Career Management",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "GEB3213",
+            "title": "Business Writing",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "GEB4891",
+            "title": "Strategic Planning",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "GEB4930",
+            "title": "Selected Topics In Management",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "GEB4970",
+            "title": "Senior Management Project",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "GER1120",
+            "title": "Elementary German I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "GER1121",
+            "title": "Elementary German II",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "GIS1060",
+            "title": "Introduction To GIS With ArcGIS",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "GLY1010",
+            "title": "Introduction To Geology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "GRA1151",
+            "title": "Illustrator Fundamentals",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "GRA4950",
+            "title": "Digital Media Portfolio",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "GRA4954",
+            "title": "Digital Media Capstone Project",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HCP0720C",
+            "title": "Electrocardiograph Technical Skills",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HCP0750C",
+            "title": "Basic Concepts of Phlebotomy",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HFT1000",
+            "title": "Introduction To Hospitality And Tourism",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HFT1410",
+            "title": "Front Office Management",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HFT1820",
+            "title": "Food And Beverage Purchasing",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HFT2210",
+            "title": "Hospitality Mgmt & Leadership",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HFT2223",
+            "title": "Human Relations And Supervisory Development",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HFT2500",
+            "title": "Marketing And Sales In The Hospitality Industry",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HFT2600",
+            "title": "Hospitality Law",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HFT2630",
+            "title": "Security Issues In The Hospitality Industry",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HFT2840",
+            "title": "Table Service Etiquette",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HFT2943",
+            "title": "Internship In Restaurant Management",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HIM1000",
+            "title": "Intro To Health Information Management",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HIM1012",
+            "title": "Legal Aspects of Health Information",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HIM1273C",
+            "title": "Billing And Reimbursement Methods",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HIM1282",
+            "title": "Basic CPT Coding",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HIM1442",
+            "title": "Pharmacology For HIM",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HIM1510C",
+            "title": "Healthcare Data Analysis",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HIM1722",
+            "title": "ICD-10-CM Coding",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HIM1723",
+            "title": "ICD-10-PCS Coding",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HIM2112",
+            "title": "Electronic Health Record And Technology",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HIM2211",
+            "title": "Health Information Systems",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HIM2400",
+            "title": "Alternative Health Care Settings",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HIM2433",
+            "title": "Pathophysiology",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HIM2506",
+            "title": "Quality Assessment",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HIM2512",
+            "title": "HIM Supervision And Organizational Life",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HIM2725L",
+            "title": "Coding Lab",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HIM2729",
+            "title": "Intermediate Coding",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HIM2805L",
+            "title": "Professional Practice Experience I",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "HIM2822",
+            "title": "HIT Capstone Seminar",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "HMV0940",
+            "title": "Apprenticeship-Culinary Arts-Sanitation",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HMV0943",
+            "title": "Apprenticeship-Culinary OJL",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HMV0944",
+            "title": "Culinary Arts-Nutrition Principles",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HMV0945",
+            "title": "Culinary Arts - Cost Control",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HMV0946",
+            "title": "Culinarty Arts - Speciality Techniques",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HMV0947",
+            "title": "Culinary Arts - Equipment Operation",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HOS1010",
+            "title": "Fundamentals of Horticulture",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "HSA1653",
+            "title": "Healthcare Ethics",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "HSA2182C",
+            "title": "Health Services Management Concepts",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSA3113",
+            "title": "Healthcare Trends And Issues",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSA3184",
+            "title": "Leadership And Management In Healthcare Organization",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSA4110",
+            "title": "Healthcare Management Competencies",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "HSA4160",
+            "title": "Healthcare Marketing",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "HSA4170",
+            "title": "Healthcare Financial Management",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "HSA4340",
+            "title": "Human Resources Management In Healthcare Organization",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSA4383",
+            "title": "Quality Improvement In Healthcare",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSA4421",
+            "title": "Policy And Governmental Regulation In Healthcare",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "HSA4423",
+            "title": "Healthcare Law",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSA4817",
+            "title": "Practicum In Health Care Management",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSA4922",
+            "title": "Capstone Project In Healthcare Management",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSC0003",
+            "title": "Introduction To Healthcare",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSC0530C",
+            "title": "Concepts of Medical Language",
+            "typicalOnlinePeriodsOffered": "Spring, Summer",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSC0540",
+            "title": "Body Structure And Function",
+            "typicalOnlinePeriodsOffered": "Spring, Summer",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSC1001C",
+            "title": "Introduction to Healthcare Management",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSC1101",
+            "title": "Developing Personal Well Being",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSC1242",
+            "title": "Instructing Health Professionals",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "HSC1632C",
+            "title": "Overview of Healthcare Delivery",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSC1653",
+            "title": "Healthcare Ethics",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSC2100",
+            "title": "Personal & Community Health",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "HSC2531",
+            "title": "Medical Terminology I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSC2802C",
+            "title": "Health Science Seminar",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSC3661",
+            "title": "Healthcare Communications",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSC4730",
+            "title": "Foundations of Health Science Research",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HSCP931",
+            "title": "Special Topics In Health",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HUM1020",
+            "title": "Introduction To Humanities",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HUM1233",
+            "title": "Humanities Literature:Baroque To Present",
+            "typicalOnlinePeriodsOffered": "Spring, Summer",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HUN1201",
+            "title": "Nutrition",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HUN1203",
+            "title": "Culinary Nutrition",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HUS1001",
+            "title": "Introduction To Human Services",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HUS1200",
+            "title": "Group Dynamics",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HUS1540",
+            "title": "Family Relations",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HUS2301",
+            "title": "Counseling Techniques",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HUS2500",
+            "title": "Intro To Ethics In Human Services",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HUS3340",
+            "title": "Trauma And Post-Traumatic Stress Disorder",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "HUS3350",
+            "title": "Issues In Domestic Abuse And Family Violence",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HUS3360",
+            "title": "Sexual Abuse of Children And Adolescents",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HUS3575",
+            "title": "Human Services For Special Needs Families",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "HUS3650",
+            "title": "Administration In Human Services",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HUS4361",
+            "title": "High Risk And Offender Youth",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HUS4410",
+            "title": "Internet Addictions",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "HUS4574",
+            "title": "Issues of Aging And Family Dynamics",
+            "typicalOnlinePeriodsOffered": "Fall, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "IDS1955",
+            "title": "Interdisciplinary Study Abroad",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "IND1432",
+            "title": "Lighting For Interior Design",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "IND1462",
+            "title": "Introduction To Architectural CAD",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "IND2100",
+            "title": "History of Interiors I",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "IND2209",
+            "title": "Designing For The Aging Client",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "IND2608",
+            "title": "Sustainable Design For Interiors",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "IND2940",
+            "title": "Interior Design Practicum I",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "IND2941",
+            "title": "Interior Design Practicum II",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "IND2942",
+            "title": "Interior Design Practicum III",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "INR2002",
+            "title": "Introduction To International Relations",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "INR2500",
+            "title": "Model United Nations",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "IPM1323",
+            "title": "Application of Pesticides",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "ISM3011",
+            "title": "Introduction To Management Information Systems",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ISM3133",
+            "title": "Systems Analysis And Design",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ISM3212",
+            "title": "Database Design And Administration",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "ISM3321",
+            "title": "Security Essentials",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "ISM4117",
+            "title": "Data Mining And Data Warehousing",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ISM4220",
+            "title": "Network Technologies For Information Professionals",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "ISM4320",
+            "title": "Applications In Information Security",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ISM4323",
+            "title": "Information Security Policy Administration",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "ISM4324",
+            "title": "Computer Forensics",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "ISM4881",
+            "title": "Capstone In Information Technology Management",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "LAE4416",
+            "title": "Children's Literature In Elementary Education",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "LIS1002",
+            "title": "Electronic Access To Information",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "LIS2004",
+            "title": "Introduction To Internet Research",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "LIS2005",
+            "title": "Intro To Electronic Access Information",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "LIT1000",
+            "title": "Introduction To Literature",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "LIT2110",
+            "title": "World Literature: Homer To The Renaissance",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "LIT2120",
+            "title": "World Literature: The Enlightenment To The Present",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "LIT2330",
+            "title": "Children's Literature",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "MAC1105",
+            "title": "College Algebra",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAC1114",
+            "title": "Plane Trigonometry",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAC1140",
+            "title": "Precalculus Algebra",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAC2233",
+            "title": "Business Calculus I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAC2311",
+            "title": "Calculus I With Analytic Geometry",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAE1930",
+            "title": "Special Topics/Seminars in Math",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "MAE3651",
+            "title": "Learn Math With Technology",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAE3816",
+            "title": "Elements of Geometry",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAE3940",
+            "title": "Teaching Middle School Mathematics Practicum",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAE4363",
+            "title": "Middle School/Secondary School Mathematics Methods",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAE4815",
+            "title": "Elements of Algebra",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAE4932",
+            "title": "Seminar In Mathematics Education",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAE4941",
+            "title": "Teaching Secondary Mathematics Practicum",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAE4945",
+            "title": "Student Teaching In Mathematics",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "MAN2021",
+            "title": "Principles of Management",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAN2300",
+            "title": "Introduction To Human Resource Management",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAN3063",
+            "title": "Organizational Ethics And Values",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAN3240",
+            "title": "Organizational Behavior",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAN3303",
+            "title": "Management Concepts",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAN4046",
+            "title": "Perspectives In Leadership",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAN4162",
+            "title": "Customer Relations For Managers",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAN4301",
+            "title": "Human Resource Management",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAN4442",
+            "title": "International Business",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAN4504",
+            "title": "Operations Management",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAN4900",
+            "title": "Capstone Project In Organizational Management",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAN4940",
+            "title": "Business Internship",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "MAN4970",
+            "title": "Business Thesis",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAR2011",
+            "title": "Principles of Marketing",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer A, Summer B",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer A, Summer B",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAR2101",
+            "title": "Social Marketing",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "MAR3023",
+            "title": "Marketing Management",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAR4613",
+            "title": "Marketing Research",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAS3105",
+            "title": "Applied Linear Algebra",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAS4203",
+            "title": "Number Theory",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAT0028",
+            "title": "Developmental Math II",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAT0055",
+            "title": "Elementary Algebra Modules",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "MAT1033",
+            "title": "Intermediate Algebra",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAT1100",
+            "title": "Quantitative Reasoning",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MAT3905",
+            "title": "Middle Grades Math Through Tutoring",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MCB2010",
+            "title": "Microbiology For Health Sciences",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MEA0200C",
+            "title": "Medical Assisting Clinical Procedures I",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MEA0201C",
+            "title": "Medical Assisting Clinical Procedures II",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MEA0231",
+            "title": "Anatomy Physiology And Medical Language",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MEA0234",
+            "title": "Pathophysiology And Disease",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MEA0242",
+            "title": "Introduction To Pharmacology",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MEA0254C",
+            "title": "Medical Office Laboratory",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MEA0258",
+            "title": "Diagnostic Imaging In Medical Offices",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MEA0334",
+            "title": "Medical Office Procedures I",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MEA0500",
+            "title": "Medical Office Receptionist",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MEA0800",
+            "title": "Medical Assisting Practicum",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MEA0952",
+            "title": "Medical Assisting Seminar",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MET1001",
+            "title": "Weather And Climate",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "MGF2106",
+            "title": "Survey In Mathematics",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MGF2107",
+            "title": "Explorations In Mathematics",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MHF4404",
+            "title": "History of Mathematics",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MKA1303",
+            "title": "Mid-Mgmt. Seminar & Supervised Exp I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MKA2021",
+            "title": "Salesmanship",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MKA2161",
+            "title": "Customer Relations",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "MLT1040C",
+            "title": "Introduction to MedicalTechnology",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MLT1199",
+            "title": "Introduction To Molecular Diagnostics",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "MLT1230",
+            "title": "Urinalysis And Body Fluids",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MLT1362",
+            "title": "Hematology",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MLT1440C",
+            "title": "Parasitology & Mycology",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "MLT1500C",
+            "title": "Immunology And Serology",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MLT1525",
+            "title": "Immunohematology (Blood Bank)",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MLT2033",
+            "title": "Medical Laboratory Career Orientation",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "MLT2400",
+            "title": "Medical Microbiology",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MLT2625",
+            "title": "Clinical Chemistry",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MLT2931",
+            "title": "MLT Review For The State Exam",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MMC1000",
+            "title": "Survey of Mass Communication",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MMC2100",
+            "title": "Writing For Mass Communications I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MNA1330",
+            "title": "Instructor Effectiveness Training",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "MNA1821",
+            "title": "Electronic Commerce",
+            "typicalOnlinePeriodsOffered": "Spring, Summer",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MNA2100",
+            "title": "Interpersonal Relations In Business",
+            "typicalOnlinePeriodsOffered": "Fall, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MNA2345",
+            "title": "Supervision",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "MNA2932",
+            "title": "Professional Development",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MTG2204",
+            "title": "Elementary Geometry",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MUL2010",
+            "title": "Survey of Music Literature",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "MUT1001",
+            "title": "Fundamentals of Theory",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "MUY2100",
+            "title": "Humanities: Music & Music Therapy",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "NSPP933",
+            "title": "IV Therapy For LPNS",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "NUR1021C",
+            "title": "Intro To Nursing Concepts 1",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "NUR1034C",
+            "title": "Health-Illness-Concepts 2",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "NUR2035C",
+            "title": "Health-Illness Concepts 3",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "NUR2205C",
+            "title": "Nursing And Complex Health Concepts 4",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "NUR3065C",
+            "title": "Nursing Assessment With Clinical",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "NUR3125",
+            "title": "Pathophysiology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "NUR3145",
+            "title": "Pharmacology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "NUR3164",
+            "title": "Nursing Research And Informatics",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "NUR3826",
+            "title": "Ethical And Legal Issues In Healthcare",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "NUR3846",
+            "title": "Nursing Theory",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "NUR4636C",
+            "title": "Community Health Nursing",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "NUR4655",
+            "title": "Nursing In A Diverse Culture",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "NUR4827",
+            "title": "Leadership And Management In Professional Nursing",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "NUR4837",
+            "title": "Healthcare Policy And Economics",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "OCB1000",
+            "title": "Introduction To Marine Biology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "OCB1000L",
+            "title": "Introduction To Marine Biology Lab",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "OCB1630",
+            "title": "Marine Ecology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "OCB1630L",
+            "title": "Marine Ecology Lab",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "OCB3017",
+            "title": "Marine Environmental Science",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "OCE2001",
+            "title": "Introduction To Oceanography",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "ORH2220",
+            "title": "Turfgrass Management",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "ORH2601",
+            "title": "Retail Nursery Operations",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "OTA0005",
+            "title": "Office Skills Training I",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "OTA0006",
+            "title": "Office Skills Training II",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PAD3003",
+            "title": "Intro To Public Administration",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PAD3034",
+            "title": "Policy Development And Implementation",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PAD3104",
+            "title": "Organizational Behavior And Administration",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PAD3223",
+            "title": "Public Budgeting And Finance",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PAD3330",
+            "title": "Urban And Regional Planning",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PAD3431",
+            "title": "Leadership",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PAD4046",
+            "title": "Values Ethics And Conflict Resolution",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PAD4320",
+            "title": "Program Evaluation In Public Management",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PAD4332",
+            "title": "Strategic Planning",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PAD4414",
+            "title": "Public Personnel Management",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PAD4442",
+            "title": "Public Relations For Public Managers",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PAD4603",
+            "title": "Administrative Law For Public Administrators",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PAD4806",
+            "title": "State And Local Government Administration",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PAD4879",
+            "title": "Capstone In Public Administration",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PCB1030",
+            "title": "Introduction To Ecology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PCB3063",
+            "title": "Introduction To Genetics",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PCB3674",
+            "title": "Evolutionary Biology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "PCB4233",
+            "title": "Immunology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "PHI1002",
+            "title": "Philosophical Practice",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PHI1010",
+            "title": "Introduction To Philosophy",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PHI1103",
+            "title": "Critical And Creative Thinking",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PHI1113",
+            "title": "Reason And Emotion",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PHI1624",
+            "title": "Philosophy And Popular Culture",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "PHI1635",
+            "title": "Ethical Issues In Health Care",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PHI1801",
+            "title": "Philosophy of Art",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PHI2100",
+            "title": "Introduction To Logic",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PHI2620",
+            "title": "Environmental Ethics",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "PHI2630",
+            "title": "Introduction To Ethics",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PHY1020",
+            "title": "Principles of Physics",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PHY2053",
+            "title": "College Physics I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PHY2054",
+            "title": "College Physics II",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "PLA1610",
+            "title": "Real Estate And Property Law",
+            "typicalOnlinePeriodsOffered": "Fall, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "PLA1763",
+            "title": "Law Office Management",
+            "typicalOnlinePeriodsOffered": "Spring, Summer",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PLA2003",
+            "title": "Introduction To Paralegal Studies",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "PLA2058",
+            "title": "Survey of Law",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "PLA2117",
+            "title": "Advanced Legal Writing",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PLA2223",
+            "title": "Civil Litigation II",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PLA2273",
+            "title": "Torts",
+            "typicalOnlinePeriodsOffered": "Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "PLA2423",
+            "title": "Contracts",
+            "typicalOnlinePeriodsOffered": "Fall, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "PLA2433",
+            "title": "Corporate And Business Law",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PLA2483",
+            "title": "Administrative Law",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PLA2600",
+            "title": "Estate Planning And Probate Administration",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PLA2800",
+            "title": "Family Law",
+            "typicalOnlinePeriodsOffered": "Fall, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PMA2211",
+            "title": "Insects And Diseases of Ornamental Plants",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PMT0101",
+            "title": "Welding Symbols & Blueprints",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PMT0104",
+            "title": "Fundamentals of Metallurgy",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PMT0121",
+            "title": "Shielded Metal Arc Welding Principles",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PMT0122L",
+            "title": "Shielded Metal Arc Welding -Advanced",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PMT0131",
+            "title": "Gas Tungsten ARC Welding Principles",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PMT0134",
+            "title": "Gas Metal ARC Welding",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PMT0138L",
+            "title": "Gas Tungsten ARC Welding - Advanced",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "POS1041",
+            "title": "American Government",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PSC1121",
+            "title": "Survey of Physical Science",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PSY2012",
+            "title": "Introduction To Psychology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PTN0000",
+            "title": "Pharmacy Technician Orientation",
+            "typicalOnlinePeriodsOffered": "Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "PTN0015",
+            "title": "Pharmaceutical Calculations",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PTN0030",
+            "title": "Introduction To Community Pharmacy",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PTN0031",
+            "title": "Introduction To Institutional Pharmacy",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PTN0032L",
+            "title": "Pharmacy Operations I",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PTN0033L",
+            "title": "Pharmacy Operations II",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PTN0093",
+            "title": "Pharmacy Technician Review Course",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "PTN023",
+            "title": "General Pharmacology",
+            "typicalOnlinePeriodsOffered": "Fall, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "QMB1001",
+            "title": "Mathematics of Business",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "QMB3250",
+            "title": "Statistics For Business Decisions",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "REA1205",
+            "title": "Advanced College Reading I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "RED3009",
+            "title": "Early And Emergent Literacy",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "RED3360",
+            "title": "Teaching Reading In Middle/Secondary Schools",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "RED4348",
+            "title": "Literacy Development K-12",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "RED4519C",
+            "title": "Diagnostic & Instructional Interventions - Reading",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "RED4654",
+            "title": "Differentiated Instruction Foundations & Application",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "REL1121",
+            "title": "Religion And American Public Life",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "REL1300",
+            "title": "Introduction To World Religions",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "RET1007",
+            "title": "Cardiopulmonary Pharmacology",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "RET1024",
+            "title": "Introduction To Respiratory Care",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "RET1274",
+            "title": "Respiratory Therapy Theory I",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "RET2241",
+            "title": "Intro To ACLS For Respiratory Care",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "RET2264",
+            "title": "Mechanical Ventilation",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "RET2442",
+            "title": "Respiratory Therapy Theory III",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "RET2714",
+            "title": "Pediatric/Neonatal Respiratory Care",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "RET2934",
+            "title": "Prof Development In Respiratory Care",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "RTE1000",
+            "title": "Introduction To Radiologic Sciences",
+            "typicalOnlinePeriodsOffered": "Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "RTE2385",
+            "title": "Radiation Safety And Protection",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "SBM1000",
+            "title": "Entrepreneurship",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SCE3360",
+            "title": "Middle School/Secondary Science Methods",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SCE3940",
+            "title": "Teaching Middle School Science Practicum",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SCE4941",
+            "title": "Student Teaching In Science",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "SCE4942",
+            "title": "Teaching Secondary Science Practicum",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SCE4943",
+            "title": "Seminar In Science Teaching",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SLS0341",
+            "title": "Practical Employability Skills",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SLS0460",
+            "title": "Specialized Career Education - Basic 1",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SLS0461",
+            "title": "Specialized Career Education - Basic 2",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SLS0462",
+            "title": "Specialized Career Education - Basic 3",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SLS0463",
+            "title": "Specialized Career Education - Advanced 1",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SLS0464",
+            "title": "Specialized Career Education - Advanced 2",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SLS0944",
+            "title": "Specialized Career Education, Internship",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SLS1101",
+            "title": "Student Success",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SLS1261",
+            "title": "Essentials of Contemporary Leadership",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SLS1421",
+            "title": "Personal Career Development",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SLS1501",
+            "title": "College Study Skills",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "SLS1931",
+            "title": "Professional Skills Enhancement",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "SLS2940",
+            "title": "Service Learning & Civic Engagement",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SLS2941",
+            "title": "Pre-Med Career Shadowing/Scientific Research Serv",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SLS2942",
+            "title": "Service Learning And Peer Mentoring",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SLS2948",
+            "title": "Service Learning And Professional Development",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Spring, Summer",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SPC1017",
+            "title": "Fundamentals of Speech Communication",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SPC1608",
+            "title": "Public Speaking",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SPN1120",
+            "title": "Elementary Spanish I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SPN1121",
+            "title": "Elementary Spanish II",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SPN2220",
+            "title": "Intermediate Spanish I",
+            "typicalOnlinePeriodsOffered": "Fall, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SPN2221",
+            "title": "Intermediate Spanish II",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "STA2023",
+            "title": "Elementary Statistics I",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "STS0003",
+            "title": "Introduction To Surgical Technology",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "STS0008",
+            "title": "Pharmacology For The Surgical Technologist",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "STS0120",
+            "title": "Surgical Specialties I",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "STS0155C",
+            "title": "Surgical Techniques And Procedures",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "SWS2104",
+            "title": "Soils And Fertilizers",
+            "typicalOnlinePeriodsOffered": "Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "SYG1250",
+            "title": "Multicultural Issues",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "SYG2000",
+            "title": "Introduction To Sociology",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "SYG2010",
+            "title": "Social Problems",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "TAX2000",
+            "title": "Income Tax",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "TAX4001",
+            "title": "Federal Taxation",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "TAX4101",
+            "title": "Corporate Taxation",
+            "typicalOnlinePeriodsOffered": "Fall",
+            "typicalHybridPeriodsOffered": "Fall",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "THE1000",
+            "title": "Introduction To Theatre (Drama)",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "THE2300",
+            "title": "Survey of Dramatic Literature",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "TSL3080",
+            "title": "ESOL Issues: Principles And Practices",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "TSL3251",
+            "title": "Applied Linguistics",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "TSL3520C",
+            "title": "Cultural Dimensions of ESOL",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "TSL4081",
+            "title": "Second Language Acquisition & Cross-Cultural Communication",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "TSL4100",
+            "title": "ESOL Methods Curriculum And Assessment",
+            "typicalOnlinePeriodsOffered": "Fall, Spring",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "TSL4140C",
+            "title": "TESOL Curriculum And Materials",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "TSL4340C",
+            "title": "TESOL Methods",
+            "typicalOnlinePeriodsOffered": "",
+            "typicalHybridPeriodsOffered": "Fall, Spring",
+            "online": "N",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "TSL4441C",
+            "title": "ESOL Testing And Evaluation",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "",
+            "online": "Y",
+            "hybrid": "N"
+        },
+        {
+            "courseId": "WOH2012",
+            "title": "World History To 1500",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "WOH2022",
+            "title": "World History Since 1500",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        },
+        {
+            "courseId": "WOH2040",
+            "title": "The World In The Twentieth Century",
+            "typicalOnlinePeriodsOffered": "Fall, Spring, Summer",
+            "typicalHybridPeriodsOffered": "Fall, Spring, Summer",
+            "online": "Y",
+            "hybrid": "Y"
+        }
+    ]
+}
